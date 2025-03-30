@@ -1,4 +1,9 @@
 # Certifications Repository
+Link to Coursera:
+https://www.coursera.org/user/4a7977c44a86f4ec8bdbfb98720a24f0
+
+Link to Credly:
+https://www.credly.com/users/codename-daniyal
 
 This repository contains a list of certifications achieved by the repository owner. Each certification represents a completion of a specific course, providing valuable skills and knowledge in various domains.
 
